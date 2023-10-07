@@ -1,0 +1,4 @@
+const img = readFileSync('./image.png');
+const b64 = Buffer.from(img).toString('base64');
+
+writeFileSync('./image.jpg', img, 'base64');
