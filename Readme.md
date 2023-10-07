@@ -1,4 +1,4 @@
-# Ecommerce Website README
+# CodroidHub Ecommerce Website
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
