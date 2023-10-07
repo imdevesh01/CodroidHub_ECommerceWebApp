@@ -10,7 +10,6 @@
 5. [Styling](#styling)
 6. [Database](#database)
 7. [Contributing](#contributing)
-8. [License](#license)
 
 ## Project Overview
 
